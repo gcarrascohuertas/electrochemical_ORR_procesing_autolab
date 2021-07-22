@@ -24,7 +24,11 @@ First you need following materials in order to perform experiments:
 
 Electrochemical tecniques performed are cyclic voltammograms with a starcase profile (CV), Chronoamperometry (CA) and Electrochemical impedance spectroscopy (EIS).
 
-    - Cyclic voltammograms with a starcase profile (CV) parameters: Potential window have to be ranged in the optimum potential windows of your electrode-electrolyte system. In the example provided here I used a potential window which vary from 0.1 to -0.9 V reapeated 3 times at 10 mV/s fixed scan rate.
+   - Cyclic voltammograms with a starcase profile (CV) parameters: Potential window have to be ranged in the optimum potential windows of your electrode-electrolyte system. In the example provided here I used a potential window which vary from 0.1 to -0.9 V reapeated 3 times at 10 mV/s fixed scan rate.
+   
+   - Chronoamperometry (CA) parameters: Analysis only for 1600 rpm in a O2 saturated electrolyte.
+   
+   - Electrochemical impedance spectroscopy (EIS): First activate the cell and measure OCP  with 10 seconds duration, interval time of 0.1, time to average 5 seconds and dE/dt limit of 1E-06 V/s. Second step is to apply 10 mV perturbation vs. OCP measured previously. Third step is wait 5 seconds. Four step is perform EIS measurement with following parameteres: (First applied frecuency: 1E+05 Hz, last applied frecuency 0.1 Hz, Number of points of freq per decade 10, Amplitude 10 and wave type sine with internal correction. 
 
 # Electrochemical measurements
 
