@@ -1,11 +1,11 @@
 
 # Electrochemical setup
 
-
-- Nitrogen and Oxygen gas cylinder (e.g. https://www.airliquide.com)
-- Rotating disk electrode equipment (e.g. https://www.metrohm.com/en/products/AUTRDES)
+- Nitrogen and Oxygen gas cylinder (e.g. https://www.airliquide.com )
+- Rotating disk electrode equipment (e.g. https://www.metrohm.com/en/products/AUTRDES )
 - Three-electrode jacket cell with two-way gas purge
-- Potentiostat (e.g. Autolab PGSTAT302N - High Performance , https://www.metrohm-autolab.com/Products/Echem/NSeriesFolder/PGSTAT302N)
+- Potentiostat (e.g. Autolab PGSTAT302N - High Performance , https://www.metrohm-autolab.com/Products/Echem/NSeriesFolder/PGSTAT302N )
+- PC with electrochemical adquisition software (e.g. NOVA software,  https://metrohm-autolab.com/Products/Echem/Software/Nova.html )
 
 - Three-electrode cell
 
@@ -27,5 +27,7 @@ In the example provided here I used a potential window which vary from 0.1 to -0
 
 # Electrochemical measurements
 
-In order to follow recomendatios of https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas , first the electrolyte is thermostated at 298 K and purged with high purity Nitrogen for at least 30 min prior to Nitrogen measurement. Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to Oxygen measurements.
+In order to follow recomendatios of https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min prior to Nitrogen measurement. Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to Oxygen measurements.
+
+
  
