@@ -1,8 +1,6 @@
 # About
 
-Here I provided a short-guide of experimental adquisition data. 
-I summarized the main things you need to take into acount but https://github.com/gcarrascohuertas is not responsible for the bad use of this guide and its consequences over materials and people involved. 
-Please, be carefully and document all step you perform.
+Here I provided a short-guide of experimental acquisition data. I summarized the main things you need to take into account but https://github.com/gcarrascohuertas is not responsible for the bad use of this guide and its consequences over materials and people involved. Please, be careful and document all steps you perform. 
 
 # Electrochemical setup
 
