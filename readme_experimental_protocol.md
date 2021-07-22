@@ -44,7 +44,7 @@ Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at
 
 Once you finish setting-up all the electrochemical cell components. Create two experimental sequences (one for nitrogen and one for oxygen) with the parameteres displayed in the  screenshots attached in this project.  
 
-WARNING: Due to NOVA software is licensed if you want NOVA software sequence for Nitrogen also Oxygen measurements do no hesitate to contact me at :  gasparcarrascohuertas@gmail.com
+WARNING: Due to NOVA software is licensed I can not upload sequence (.nox file). If you want NOVA software sequence for Nitrogen also Oxygen measurements (.nox files) do no hesitate to contact me at :  gasparcarrascohuertas@gmail.com
 
 
 # Data treatment. Koutecky-Levich Analysis
