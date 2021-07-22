@@ -8,10 +8,10 @@ Here I provided a short-guide of experimental acquisition data. I summarized the
 First you need following materials in order to perform experiments:
 
 - Nitrogen and Oxygen gas cylinder with appropriate security system (e.g. https://www.airliquide.com )
-- Rotating disk electrode equipment (e.g. https://www.metrohm.com/en/products/AUTRDES )
-- Three-electrode jacket cell with two-way gas purge (gas-inflow and gas-outflow) (Scheme https://www.researchgate.net/figure/Schematic-of-a-typical-water-jacketed-RDE-cell_fig8_324230952)
-- Potentiostat which can perform Cyclic voltammetry, Chronoamperometry and Electrochemical impedance spectroscopy (e.g. Autolab PGSTAT302N - High Performance , https://www.metrohm-autolab.com/Products/Echem/NSeriesFolder/PGSTAT302N )
-- PC with electrochemical acquisition software (e.g. NOVA software,  https://metrohm-autolab.com/Products/Echem/Software/Nova.html )
+- Rotating disk electrode equipment (e.g.[RDE Metrohm](https://www.metrohm.com/en/products/AUTRDES) )
+- Three-electrode jacket cell with two-way gas purge (gas-inflow and gas-outflow) ([Scheme](https://www.researchgate.net/figure/Schematic-of-a-typical-water-jacketed-RDE-cell_fig8_324230952))
+- Potentiostat which can perform Cyclic voltammetry, Chronoamperometry and Electrochemical impedance spectroscopy (e.g. [Autolab PGSTAT302N - High Performance](https://www.metrohm-autolab.com/Products/Echem/NSeriesFolder/PGSTAT302N) )
+- PC with electrochemical acquisition software (e.g. [NOVA software](https://metrohm-autolab.com/Products/Echem/Software/Nova.html ))
 
 - Three-electrode cell
 
