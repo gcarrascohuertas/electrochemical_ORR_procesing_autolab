@@ -31,14 +31,14 @@ Electrochemical techniques performed are cyclic voltammograms with a staircase p
 
    - Cyclic voltammograms with a staircase profile (CV) parameters: Potential windows have to be ranged in the optimum potential windows of your electrode-electrolyte system. In the example provided here I used a potential window which varies from 0.1 to -0.9 V  vs. VRef repeated 3 times at 10 mV/s fixed scan rate. Upper vertex and Lower vertex were set to 0.11 V and -0.9 V vs. VRef. Step was set to -0.00244 V
 
-   - Chronoamperometry (CA) parameters: This analysis was performed only for 1600 rpm in a O2 saturated electrolyte.
+   - Chronoamperometry (CA) parameters: This analysis was performed only for 1600 rpm in a O<sub>2</sub> saturated electrolyte.
    
    - Electrochemical impedance spectroscopy (EIS): First activate the cell and measure OCP  with 10 seconds duration, interval time of 0.1, time to average 5 seconds and dE/dt limit of 1E-06 V/s. Second step is to apply 10 mV perturbation vs. OCP measured previously. Third step is to wait 5 seconds. Four step is to perform EIS measurement with following parameters: (First applied frequency: 1E+05 Hz, last applied frequency 0.1 Hz, Number of points of freq per decade 10, Amplitude 10 and wave type sine with internal correction. 
 
 # Electrochemical measurements
 
-In order to follow recomendatios of [Kocha et.al., 2017](https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas) , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min before each Nitrogen measurements  at 0 rpm, 1000 rpm and 2000 rpm. 
-Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to Oxygen measurements at 0 rpm, 250 rpm, 500 rpm, 750 rpm, 1000 rpm , 1200 rpm,  1400 rpm, 1600 rpm, 1800 rpm and 2000 rpm. For purging you can use a large stainless steel needle inserted into a septum see [scheme](https://www.researchgate.net/figure/Schematic-of-a-typical-water-jacketed-RDE-cell_fig8_324230952)
+In order to follow recomendatios of [Kocha et.al., 2017](https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas) , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min before each N<sub>2</sub> measurements  at 0 rpm, 1000 rpm and 2000 rpm. 
+Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to O<sub>2</sub> measurements at 0 rpm, 250 rpm, 500 rpm, 750 rpm, 1000 rpm , 1200 rpm,  1400 rpm, 1600 rpm, 1800 rpm and 2000 rpm. For purging you can use a large stainless steel needle inserted into a septum see [scheme](https://www.researchgate.net/figure/Schematic-of-a-typical-water-jacketed-RDE-cell_fig8_324230952)
 
 # Experimental NOVA software routine 
 
