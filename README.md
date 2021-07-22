@@ -24,7 +24,8 @@ Oxygen reduction reaction (ORR) is also the most important reaction in life proc
 
 # ORR reaction in the laboratory
 
-Most common technique for ORR studies is cyclic voltammetry using a rotating disk electrode (RDE), and rotating ring-disk electrode (RRDE). Here I used experimental protocol described in readme_experimental_protocol.md
+Most common technique for ORR studies is cyclic voltammetry using a rotating disk electrode (RDE), and rotating ring-disk electrode (RRDE). 
+Here I used experimental protocol described in readme_experimental_protocol.md and provide an example of kind of data and results obtained by this project in the folder carbon_superP . 
 
 # Bibliography
 
