@@ -27,17 +27,13 @@ Electrochemical tecnique performed area cyclic voltammograms with a starcase pro
 Potential window have to be ranged in the optimum potential windows of your electrode-electrolyte system. 
 In the example provided here I used a potential window which vary from 0.1 to -0.9 V reapeated 3 times at 10 mV/s fixed scan rate.
 
-
-
-
 # Electrochemical measurements
 
 In order to follow recomendatios of https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min prior to Nitrogen measurement. Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to Oxygen measurements. For purging you can use a large stainless steel needle. 
 
+# Experimental NOVA software routine 
 
-# Additional comments
-
-Due to NOVA software is licensed if you want NOVA software sequence for Nitrogen also Oxygen measurements do no hesitate to contact me at :gasparcarrascohuertas@gmail.com
+Experimental sequence screenshots is attached in this project.  Due to NOVA software is licensed if you want NOVA software sequence for Nitrogen also Oxygen measurements do no hesitate to contact me at :  gasparcarrascohuertas@gmail.com
 
 
 
