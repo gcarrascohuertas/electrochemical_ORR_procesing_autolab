@@ -5,7 +5,7 @@ to hydrogen peroxide (H2O2).
 
 # ORR reaction in the laboratory
 
-Most common technique for ORR studies is cyclic voltammetry using rotating disk electrode (RDE), and rotating ring-disk electrode (RRDE).
+Most common technique for ORR studies is cyclic voltammetry using rotating disk electrode (RDE), and rotating ring-disk electrode (RRDE). Here I used experimental protocol described in readme_experimental_protocol.md
 
 # Bibliography
 
