@@ -5,7 +5,7 @@
 
 ORR reaction is one of the most important of all electrochemical reactions. Unfortunately, experimental research of this reaction is really complicated due to lack of standardization and processing data time involved. 
 
-This project aims to provide quick-tools developed in Python for ORR data treatment. These tools are based on data acquisition recommendations described in the [Kocha et. al. 2017]  https://doi.org/10.1007/s12678-017-0378-6 . 
+This project aims to provide quick-tools developed in Python for ORR data treatment. These tools are based on data acquisition recommendations described in the [Kocha et. al. 2017](https://doi.org/10.1007/s12678-017-0378-6) . 
 Main tools consist in obtain following parameters: 
 
 - Stacked plots associated to nitrogen analysis.
@@ -69,4 +69,4 @@ The Electrochemical ORR reaction fit tools in the Python version are still in it
 
 # Contributors
 
-[gcarrascohuertas] (https://github.com/gcarrascohuertas)
+[gcarrascohuertas](https://github.com/gcarrascohuertas)
