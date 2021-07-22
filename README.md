@@ -25,8 +25,35 @@ Oxygen reduction reaction (ORR) is also the most important reaction in life proc
 # ORR reaction in the laboratory
 
 Most common technique for ORR studies is cyclic voltammetry using a rotating disk electrode (RDE), and rotating ring-disk electrode (RRDE). 
-Here I used experimental protocol described in readme_experimental_protocol.md and provide an example of kind of data and results obtained by this project in the folder carbon_superP . 
+Here I used experimental protocol described in readme_experimental_protocol.md and provide an example of kind of data and results obtained by this project in the folder carbon_superP.
 
+# Python modules required for running script
+
+Matplotlib
+
+    python -m pip install -U pip
+    python -m pip install -U matplotlib
+
+Numpy
+
+    pip install numpy
+    
+Pandas
+
+    pip install pandas
+    
+Glob
+
+    pip install glob3
+    
+Shutil  
+
+    pip install pytest-shutil   
+    
+Astropy 
+
+    pip install astropy
+    
 # Bibliography
 
 https://link.springer.com/chapter/10.1007/978-1-84800-936-3_2
