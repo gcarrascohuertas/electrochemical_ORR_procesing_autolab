@@ -1,7 +1,13 @@
 
-# Electrochemical cell
+# Electrochemical setup
 
-- Three-electrode setup
+
+- Nitrogen and Oxygen gas cylinder (e.g. https://www.airliquide.com)
+- Rotating disk electrode equipment (e.g. https://www.metrohm.com/en/products/AUTRDES)
+- Three-electrode jacket cell with two-way gas purge
+- Potentiostat (e.g. Autolab PGSTAT302N - High Performance , https://www.metrohm-autolab.com/Products/Echem/NSeriesFolder/PGSTAT302N)
+
+- Three-electrode cell
 
     - Platinum mesh as counter electrode (CE)
     - Ag/AgCl/KCl (3.5M) as reference electrode (RE)
