@@ -1,10 +1,12 @@
 
 # Electrochemical setup
 
+First you need following materials in order to perform experiments:
+
 - Nitrogen and Oxygen gas cylinder (e.g. https://www.airliquide.com )
 - Rotating disk electrode equipment (e.g. https://www.metrohm.com/en/products/AUTRDES )
 - Three-electrode jacket cell with two-way gas purge
-- Potentiostat (e.g. Autolab PGSTAT302N - High Performance , https://www.metrohm-autolab.com/Products/Echem/NSeriesFolder/PGSTAT302N )
+- Potentiostat which can performe Cyclic voltammetry, Chronoamperometry and Electrochemical impedance spectroscopy (e.g. Autolab PGSTAT302N - High Performance , https://www.metrohm-autolab.com/Products/Echem/NSeriesFolder/PGSTAT302N )
 - PC with electrochemical adquisition software (e.g. NOVA software,  https://metrohm-autolab.com/Products/Echem/Software/Nova.html )
 
 - Three-electrode cell
@@ -15,23 +17,27 @@
 
 
 - Electrolyte
-    - Here you can use different electrolytes (e.g. 0.1 M KOH, H2SO4 , HClO4, etc..) 
+    - Here you can use different electrolytes (e.g. 0.1 M KOH, 0.5 M H2SO4 , 0.1 M HClO4, etc..) 
 
 
 # Electrochemical technique
 
-Electrochemical tecnique performed is cyclic voltammograms (CV). Potential window have to be ranged in the optimum potential windows of your electrode-electrolyte system. 
+Electrochemical tecnique performed area cyclic voltammograms with a starcase profile (CV), Chronoamperometry (CA) and Electrochemical impedance spectroscopy (EIS).
 
+Potential window have to be ranged in the optimum potential windows of your electrode-electrolyte system. 
 In the example provided here I used a potential window which vary from 0.1 to -0.9 V reapeated 3 times at 10 mV/s fixed scan rate.
+
+
 
 
 # Electrochemical measurements
 
-In order to follow recomendatios of https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min prior to Nitrogen measurement. Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to Oxygen measurements.
+In order to follow recomendatios of https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min prior to Nitrogen measurement. Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to Oxygen measurements. For purging you can use a large stainless steel needle. 
+
 
 # Additional comments
 
-Due to NOVA software is licensed if you want NOVA software sequence do no hesitate to contact me at :gasparcarrascohuertas@gmail.com
+Due to NOVA software is licensed if you want NOVA software sequence for Nitrogen also Oxygen measurements do no hesitate to contact me at :gasparcarrascohuertas@gmail.com
 
 
 
