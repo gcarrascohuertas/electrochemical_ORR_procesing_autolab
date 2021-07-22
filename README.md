@@ -11,10 +11,10 @@ Main tools consist in obtain following parameters:
 - Stacked plots associated to nitrogen analysis.
 - Stacked plots associated to oxygen analysis.
 - Stacked plots associated to ORR analysis.
-- Koutecky-levich plots.
-- Bode and Nyquist plots for nitrogen (0 rpm, 1000 rpm and 2000 rpm) and oxygen (1600 rpm).
+- Koutecky-levich plots (linealiced).
+- Bode and Nyquist plots for nitrogen (0 rpm, 1000 rpm and 2000 rpm) and oxygen (1600 rpm) experiments. 
 - Number of electrons involved in ORR.
-- Limiting current for ORR.
+- Limiting current (onset potential) for ORR.
 - Halfway potential for ORR. 
 
 
