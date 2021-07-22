@@ -21,7 +21,7 @@ First you need following materials in order to perform experiments:
 
 
 - Electrolyte
-    - Here you can use different electrolytes (e.g. 0.1 M KOH, 0.5 M H2SO4 , 0.1 M HClO4, etc..). In the example provided here I used 0.1 M KOH.
+    - Here you can use different electrolytes (e.g. 0.1 M KOH, 0.5 M H2SO4 , 0.1 M HClO4, etc..). In the example provided here contained in folder carbon_superP I used 0.1 M KOH.
 
 
 # Electrochemical techniques
@@ -29,8 +29,6 @@ First you need following materials in order to perform experiments:
 Electrochemical techniques performed are cyclic voltammograms with a staircase profile (CV), Chronoamperometry (CA) and Electrochemical impedance spectroscopy (EIS).
 
    - Cyclic voltammograms with a staircase profile (CV) parameters: Potential windows have to be ranged in the optimum potential windows of your electrode-electrolyte system. In the example provided here I used a potential window which varies from 0.1 to -0.9 V  vs. VRef repeated 3 times at 10 mV/s fixed scan rate. Upper vertex and Lower vertex were set to 0.11 and -0.9 V vs. VRef. Step was set to -0.00244 V
-
-   
 
    - Chronoamperometry (CA) parameters: Analysis only for 1600 rpm in a O2 saturated electrolyte.
    
@@ -48,14 +46,12 @@ https://pineresearch.com/shop/kb/theory/hydrodynamic-electrochemistry/koutecky-l
 
 The Koutecký–Levich equation models the measured electric current at an electrode from an electrochemical reaction in relation to the kinetic activity and the mass transport of reactants. The Koutecky-Levich (K-L) analyses of the RDE data derived from the limiting current measured at various potentials. The number of electrons transferred per O2 molecule (n) was calculated from these plots using the K-L equation. 
 
-Following parameters were used in example case of KOH 0.1 M. 
+Following parameters were used in data contained in folder carbon_superP:
 
 - Scan rate (ν):     0.01004 cm2/s
-- Concentration of O2 at 298 K (C-02):     1.39e-3 mol L-1
-- Diffusion constant of O2 (D-O2):     1.9e-5 cm2/s
+- Concentration of O2 at 298 K (C-02):     1.39e-3 mol L-1 (KOH 0.1 M at 298 K)
+- Diffusion constant of O2 (D-O2):     1.9e-5 cm2/s (KOH 0.1 M at 298 K)
 - Faraday constant : 96485 
-
-
 
 # Experimental NOVA software routine 
 
