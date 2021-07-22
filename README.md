@@ -13,8 +13,8 @@ Main tools consist in obtain following parameters:
 - Koutecky-levich plots.
 - Bode and Nyquist plots for nitrogen (0 rpm, 1000 rpm and 2000 rpm) and oxygen (1600 rpm).
 - Number of electrons involved in ORR.
-- Limiting current in ORR.
-- Halfway potential in ORR. 
+- Limiting current for ORR.
+- Halfway potential for ORR. 
 
 
 # ORR reaction in electrochemistry
