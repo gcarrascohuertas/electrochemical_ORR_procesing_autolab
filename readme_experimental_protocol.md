@@ -17,14 +17,14 @@ First you need following materials in order to perform experiments:
 
 
 - Electrolyte
-    - Here you can use different electrolytes (e.g. 0.1 M KOH, 0.5 M H2SO4 , 0.1 M HClO4, etc..) 
+    - Here you can use different electrolytes (e.g. 0.1 M KOH, 0.5 M H2SO4 , 0.1 M HClO4, etc..). In the example provided here I used 0.1 M KOH.
 
 
 # Electrochemical techniques
 
 Electrochemical tecniques performed are cyclic voltammograms with a starcase profile (CV), Chronoamperometry (CA) and Electrochemical impedance spectroscopy (EIS).
 
-   - Cyclic voltammograms with a starcase profile (CV) parameters: Potential window have to be ranged in the optimum potential windows of your electrode-electrolyte system. In the example provided here I used a potential window which vary from 0.1 to -0.9 V reapeated 3 times at 10 mV/s fixed scan rate.
+   - Cyclic voltammograms with a starcase profile (CV) parameters: Potential window have to be ranged in the optimum potential windows of your electrode-electrolyte system. In the example provided here I used a potential window which vary from 0.1 to -0.9 V  vs. VRef reapeated 3 times at 10 mV/s fixed scan rate. Upper vertex and Lower vertex was set to 0.11 and -0.9 V vs. VRef. Step was set to -0.00244 V
    
    - Chronoamperometry (CA) parameters: Analysis only for 1600 rpm in a O2 saturated electrolyte.
    
