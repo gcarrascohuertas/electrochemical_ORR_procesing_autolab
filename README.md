@@ -29,6 +29,8 @@ Here I used experimental protocol described in readme_experimental_protocol.md a
 
 # Python modules required for running script
 
+Prior to run the ORR script, install following python packages 
+
 Matplotlib
 
     python -m pip install -U pip
