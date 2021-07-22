@@ -5,7 +5,7 @@
 
 ORR reaction is one of the most important of all electrochemical reactions. Unfortunately, experimental research of this reaction is really complicated due to lack of standardization and processing data time involved. 
 
-This project aims to provide quick-tools developed in Python for ORR data treatment. These tools are based on data acquisition recommendations described in the [Kocha et. al. 2017](https://doi.org/10.1007/s12678-017-0378-6){:target="_blank" rel="noopener"} . 
+This project aims to provide quick-tools developed in Python for ORR data treatment. These tools are based on data acquisition recommendations described in the [Kocha et. al. 2017](https://doi.org/10.1007/s12678-017-0378-6){:target="_blank"}.
 Main tools consist in obtain following parameters: 
 
 - Stacked plots associated to nitrogen analysis.
@@ -60,9 +60,9 @@ Astropy
 
 
 
-[Song C., Zhang J. (2008) Electrocatalytic Oxygen Reduction Reaction. In: Zhang J. (eds) PEM Fuel Cell Electrocatalysts and Catalyst Layers. Springer, London.](https://link.springer.com/chapter/10.1007/978-1-84800-936-3_2){:target="_blank" rel="noopener"}
+[Song C., Zhang J. (2008) Electrocatalytic Oxygen Reduction Reaction. In: Zhang J. (eds) PEM Fuel Cell Electrocatalysts and Catalyst Layers. Springer, London.](https://link.springer.com/chapter/10.1007/978-1-84800-936-3_2){:target="_blank"}.
 
-[Kocha, S.S., Shinozaki, K., Zack, J.W. et al. Best Practices and Testing Protocols for Benchmarking ORR Activities of Fuel Cell Electrocatalysts Using Rotating Disk Electrode. Electrocatalysis 8, 366–374 (2017). ](https://link.springer.com/article/10.1007/s12678-017-0378-6){:target="_blank" rel="noopener"}
+[Kocha, S.S., Shinozaki, K., Zack, J.W. et al. Best Practices and Testing Protocols for Benchmarking ORR Activities of Fuel Cell Electrocatalysts Using Rotating Disk Electrode. Electrocatalysis 8, 366–374 (2017). ](https://link.springer.com/article/10.1007/s12678-017-0378-6){:target="_blank"}.
 
 
 # Additional coments
@@ -71,4 +71,4 @@ The Electrochemical ORR reaction fit tools in the Python version are still in it
 
 # Contributors
 
-[gcarrascohuertas](https://github.com/gcarrascohuertas){:target="_blank" rel="noopener"}
+[gcarrascohuertas](https://github.com/gcarrascohuertas){:target="_blank"}.
