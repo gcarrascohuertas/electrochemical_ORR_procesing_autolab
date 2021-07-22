@@ -9,7 +9,7 @@ First you need following materials in order to perform experiments:
 
 - Nitrogen and Oxygen gas cylinder with appropriate security system (e.g. https://www.airliquide.com )
 - Rotating disk electrode equipment (e.g. https://www.metrohm.com/en/products/AUTRDES )
-- Three-electrode jacket cell with two-way gas purge
+- Three-electrode jacket cell with two-way gas purge (gas-inflow and gas-outflow)
 - Potentiostat which can perform Cyclic voltammetry, Chronoamperometry and Electrochemical impedance spectroscopy (e.g. Autolab PGSTAT302N - High Performance , https://www.metrohm-autolab.com/Products/Echem/NSeriesFolder/PGSTAT302N )
 - PC with electrochemical acquisition software (e.g. NOVA software,  https://metrohm-autolab.com/Products/Echem/Software/Nova.html )
 
@@ -36,7 +36,8 @@ Electrochemical techniques performed are cyclic voltammograms with a staircase p
 
 # Electrochemical measurements
 
-In order to follow recomendatios of https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min prior to Nitrogen measurement. Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to Oxygen measurements. For purging you can use a large stainless steel needle. 
+In order to follow recomendatios of https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min before each Nitrogen measurements  at 0 rpm, 1000 rpm and 2000 rpm. 
+Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to Oxygen measurements at 0 rpm, 250 rpm, 500 rpm, 750 rpm, 1000 rpm , 1200 rpm,  1400 rpm, 1600 rpm, 1800 rpm and 2000 rpm. For purging you can use a large stainless steel needle inserted into a septum
 
 # Data treatment. Koutecky-Levich Analysis
 
