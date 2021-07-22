@@ -56,10 +56,10 @@ The Koutecký–Levich equation models the measured electric current at an elect
 
 Following parameters were used in data contained in folder carbon_superP:
 
-- Scan rate (ν):     0.01004 cm2/s
-- Concentration of O2 at 298 K (C-02):     1.39e-3 mol L-1 (KOH 0.1 M at 298 K)
-- Diffusion constant of O2 (D-O2):     1.9e-5 cm2/s (KOH 0.1 M at 298 K)
-- Faraday constant : 96485 
+- Scan rate (ν):     0.01004 cm<sup>2</sup>/s
+- Concentration of O2 at 298 K (C-0<sub>2</sub>):     1.39e-3 mol L<sup>-1</sup> (KOH 0.1 M at 298 K)
+- Diffusion constant of O<sub>2</sub> (D-O<sub>2</sub>):     1.9e-5 cm<sup>2</sup>/s (KOH 0.1 M at 298 K)
+- Faraday constant : 96485 C / mol
 
 
 
