@@ -5,6 +5,15 @@
 
 ORR reaction is one of the most important of all electrochemical reactions. Unfortunately, experimental research of this reaction is really complicated due to lack of standarization. 
 This project aim to provide quick-tools developed in Python for ORR data treatment. These tools are based on data adquisition recomendations described in scientific article (doi https://doi.org/10.1007/s12678-017-0378-6).
+Main tools consist in obtain following parameters:
+
+- Stacked plots associated to nitrogen analysis.
+- Stacked plots associated to oxygen analysis.
+- Stacked plots associated to ORR analysis.
+- Koutecky-levich plots.
+- Number of electrons involved in ORR.
+- Limiting current in ORR.
+- Halfway potential in ORR. 
 
 
 # ORR reaction in electrochemistry
