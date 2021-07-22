@@ -39,6 +39,18 @@ Electrochemical tecniques performed are cyclic voltammograms with a starcase pro
 
 In order to follow recomendatios of https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min prior to Nitrogen measurement. Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to Oxygen measurements. For purging you can use a large stainless steel needle. 
 
+# Data treatment
+
+The Koutecký–Levich equation models the measured electric current at an electrode from an electrochemical reaction in relation to the kinetic activity and the mass transport of reactants. The Koutecky-Levich (K-L) analyses of the RDE data derived from the limiting current measured at various potential. The number of electron transferred per O2 molecule (n) was calculated from these plots using the K-L equation. 
+
+Following parameters were used in example case of KOH 0.1 M. 
+
+- Scan rate (ν):     0.01004 cm2/s
+- Concentration of O2 at 298 K (C-02):     1.39e-3 mol L-1
+- Diffusion constant of O2 (D-O2):     1.9e-5 cm2/s
+
+
+
 # Experimental NOVA software routine 
 
 Experimental sequence screenshots is attached in this project.  Due to NOVA software is licensed if you want NOVA software sequence for Nitrogen also Oxygen measurements do no hesitate to contact me at :  gasparcarrascohuertas@gmail.com
