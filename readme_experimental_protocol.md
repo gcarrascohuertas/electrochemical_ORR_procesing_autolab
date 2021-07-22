@@ -17,11 +17,11 @@ First you need following materials in order to perform experiments:
 
     - Platinum mesh as counter electrode (CE)
     - Ag/AgCl/KCl (3.5M) as reference electrode (RE)
-    - Your working electrode (WE). Here I used a Carbon Super P (https://www.alfa.com/es/catalog/H30253/) slurry deposited over a polished rotating-glassy carbon electrode (GC, 4 mm diameter, Metrohm). Carbon slurry consists of 5 mg (carbon  material after going through a 150 microns sieve), ethanol (170 µl, Merck) and Nafion 117 (5 wt%, 47.5 µl, Merck). Slurry was sonicated for 5 minutes and then was drop-coated (7 µl of the slurry) over a rotating-disk tip (try to fulfill all the glassy carbon active area).
+    - Your working electrode (WE). Here I used a [Carbon Super P](https://www.alfa.com/es/catalog/H30253/) slurry deposited over a polished rotating-glassy carbon electrode (GC, 4 mm diameter, Metrohm). Carbon slurry consists of 5 mg (carbon  material after going through a 150 microns sieve), ethanol (170 µl, Merck) and Nafion 117 (5 wt%, 47.5 µl, Merck). Slurry was sonicated for 5 minutes and then was drop-coated (7 µl of the slurry) over a rotating-disk tip (try to fulfill all the glassy carbon active area).
 
 
 - Electrolyte
-    - Here you can use different electrolytes depeding on your WE material (e.g. 0.1 M KOH, 0.5 M H2SO4 , 0.1 M HClO4, etc..). In the example provided here contained in folder carbon_superP  0.1 M KOH was used.
+    - Here you can use different electrolytes depeding on your WE material (e.g. 0.1 M KOH, 0.5 M H<sub>2</sub>SO<sub>4</sub> , 0.1 M HClO<sub>4</sub>, etc..). In the example provided here contained in folder carbon_superP  0.1 M KOH was used.
 
 
 # Electrochemical techniques
