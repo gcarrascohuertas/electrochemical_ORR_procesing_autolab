@@ -20,7 +20,7 @@ Main tools consist in obtain following parameters:
 
 # ORR reaction in electrochemistry
 
-Oxygen reduction reaction (ORR) is also the most important reaction in life processes. In aqueous media occurs mainly by two pathways: the direct 4-electron reduction pathway from O2 to H2O, and the 2-electron reduction pathway from O2 to hydrogen peroxide (H<sub>2</sub>O2).
+Oxygen reduction reaction (ORR) is also the most important reaction in life processes. In aqueous media occurs mainly by two pathways: the direct 4-electron reduction pathway from O<sub>2</sub> to H<sub>2</sub>O, and the 2-electron reduction pathway from O<sub>2</sub> to hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>).
 
 # ORR reaction in the laboratory
 
