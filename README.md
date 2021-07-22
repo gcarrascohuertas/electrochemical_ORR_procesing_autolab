@@ -3,8 +3,9 @@
 
 # Overview
 
-ORR reaction is one of the most important of all electrochemical reactions. Unfortunately, experimental research of this reaction is really complicated due to lack of standarization and processing data time involved. 
-This project aim to provide quick-tools developed in Python for ORR data treatment. These tools are based on data adquisition recomendations described in scientific article (doi https://doi.org/10.1007/s12678-017-0378-6).
+ORR reaction is one of the most important of all electrochemical reactions. Unfortunately, experimental research of this reaction is really complicated due to lack of standardization and processing data time involved. 
+
+This project aims to provide quick-tools developed in Python for ORR data treatment. These tools are based on data acquisition recommendations described in scientific article  (doi https://doi.org/10.1007/s12678-017-0378-6).
 Main tools consist in obtain following parameters:
 
 - Stacked plots associated to nitrogen analysis.
