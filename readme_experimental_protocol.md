@@ -29,5 +29,10 @@ In the example provided here I used a potential window which vary from 0.1 to -0
 
 In order to follow recomendatios of https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min prior to Nitrogen measurement. Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to Oxygen measurements.
 
+# Additional comments
+
+Due to NOVA software is licensed if you want NOVA software sequence do no hesitate to contact me at :gasparcarrascohuertas@gmail.com
+
+
 
  
