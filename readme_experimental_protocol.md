@@ -1,9 +1,14 @@
+# About
+
+Here I provided a short-guide of experimental adquisition data. 
+I summarized the main things you need to take into acount but gcarrascohuertas is not responsible for the bad use of this guide and its consequences over damaged materials. 
+Please, be carefully and document all step you perform.
 
 # Electrochemical setup
 
 First you need following materials in order to perform experiments:
 
-- Nitrogen and Oxygen gas cylinder (e.g. https://www.airliquide.com )
+- Nitrogen and Oxygen gas cylinder with appropiate security system (e.g. https://www.airliquide.com )
 - Rotating disk electrode equipment (e.g. https://www.metrohm.com/en/products/AUTRDES )
 - Three-electrode jacket cell with two-way gas purge
 - Potentiostat which can performe Cyclic voltammetry, Chronoamperometry and Electrochemical impedance spectroscopy (e.g. Autolab PGSTAT302N - High Performance , https://www.metrohm-autolab.com/Products/Echem/NSeriesFolder/PGSTAT302N )
