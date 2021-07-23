@@ -14,7 +14,7 @@ Main tools consist in obtain following parameters:
 - Koutecky-levich plots (linealiced).
 - Bode and Nyquist plots for nitrogen (0 rpm, 1000 rpm and 2000 rpm) and oxygen (1600 rpm) experiments. 
 - Number of electrons involved in ORR.
-- Limiting current (onset potential) for ORR.
+- Limiting current (onset potential for 0.1 mA / cm2) for ORR.
 - Halfway potential for ORR. 
 
 
