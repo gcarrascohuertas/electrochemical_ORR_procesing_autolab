@@ -63,9 +63,9 @@ Astropy
 
 
 
-[Song C., Zhang J. (2008) Electrocatalytic Oxygen Reduction Reaction. In: Zhang J. (eds) PEM Fuel Cell Electrocatalysts and Catalyst Layers. Springer, London.](https://link.springer.com/chapter/10.1007/978-1-84800-936-3_2).
+[Song C., Zhang J. (2008) Electrocatalytic Oxygen Reduction Reaction. In: Zhang J. (eds) PEM Fuel Cell Electrocatalysts and Catalyst Layers. Springer, London.](https://link.springer.com/chapter/10.1007/978-1-84800-936-3_2)
 
-[Kocha, S.S., Shinozaki, K., Zack, J.W. et al. Best Practices and Testing Protocols for Benchmarking ORR Activities of Fuel Cell Electrocatalysts Using Rotating Disk Electrode. Electrocatalysis 8, 366–374 (2017). ](https://link.springer.com/article/10.1007/s12678-017-0378-6).
+[Kocha, S.S., Shinozaki, K., Zack, J.W. et al. Best Practices and Testing Protocols for Benchmarking ORR Activities of Fuel Cell Electrocatalysts Using Rotating Disk Electrode. Electrocatalysis 8, 366–374 (2017). ](https://link.springer.com/article/10.1007/s12678-017-0378-6)
 
 
 # Additional coments
@@ -74,4 +74,4 @@ The Electrochemical ORR reaction fit tools in the Python version are still in it
 
 # Contributors
 
-[gcarrascohuertas](https://github.com/gcarrascohuertas).
+[gcarrascohuertas](https://github.com/gcarrascohuertas)
