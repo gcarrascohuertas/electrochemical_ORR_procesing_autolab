@@ -11,8 +11,10 @@ Main tools consist in obtain following parameters:
 - Stacked plots associated to nitrogen analysis.
 - Stacked plots associated to oxygen analysis.
 - Stacked plots associated to ORR analysis.
+- Redox peak potential at 0 rpm.
 - Koutecky-levich plots (linealiced).
 - Bode and Nyquist plots for nitrogen (0 rpm, 1000 rpm and 2000 rpm) and oxygen (1600 rpm) experiments. 
+- Resistivity (Ω) associated to EIS for nitrogen (0 rpm, 1000 rpm and 2000 rpm) and oxygen (1600 rpm) experiments. 
 - Number of electrons involved in ORR.
 - Limiting current at 0.2 Volts vs RHE
 - Onset potential for 0.1 mA/cm2 for ORR.
