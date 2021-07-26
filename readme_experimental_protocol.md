@@ -67,6 +67,21 @@ Following parameters were used in data contained in folder carbon_superP:
 - Faraday constant : 96485 C / mol
 
 
+# Data treatment. Reference to RHE 
+
+All tools cretaed in this project are refered to RHE as reference scale potential . In order to obtain referenced potential to RHE, first see :
+
+#http://www.consultrsr.net/resources/ref/refpotls3.htm
+#http://www.consultrsr.net/resources/ref/refpotls.htm#ssce
+
+Our electrode used in this project was Ag/AgCl (3.5M KCl):
+
+E(RHE) = E(Ag/AgCl) + 0.059*(pH) + Eo(Ag/AgCl)
+Eo(Ag/AgCl) = 0.1976 V at 298 K
+E(Ag/AgCl) = Working potential = Ag/AgCl (3.5M KCl) +0.205 V
+pH = pH of solution , in our case was 12.8 KOH 
+
+
 
 
  
