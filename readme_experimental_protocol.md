@@ -55,8 +55,8 @@ WARNING: Due to NOVA software is licensed I can not upload sequence (.nox file).
 
 All tools cretaed in this project are refered to RHE as reference scale potential . In order to obtain referenced potential to RHE, first see :
 
-   - http://www.consultrsr.net/resources/ref/refpotls3.htm
-   - http://www.consultrsr.net/resources/ref/refpotls.htm#ssce
+   - [Converting Potentials to Another Reference Electrode](http://www.consultrsr.net/resources/ref/refpotls3.htm)
+   - [Converting Potentials to Another Reference Electrode](Reference Electrode http://www.consultrsr.net/resources/ref/refpotls.htm#ssce)
 
 Applying  E(RHE)  equation:
 
