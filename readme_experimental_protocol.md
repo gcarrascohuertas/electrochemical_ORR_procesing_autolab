@@ -50,23 +50,8 @@ Once you finish setting-up all the electrochemical cell components. Create two e
 
 WARNING: Due to NOVA software is licensed I can not upload sequence (.nox file). If you want NOVA software sequence for Nitrogen also Oxygen measurements (.nox files) do no hesitate to contact me at :  gasparcarrascohuertas@gmail.com
 
-# Data treatment. Proccesing ORR curves 
 
-Data from nitrogen 0 rpm analysis will be substrated to oxygen 0 rpm analysis (O2_0rpm - N2_0rpm)
-
-Data from nitrogen 1000 rpm analysis will be substrated to oxygen 250 , 500 , 750 and 1000 rpm analysis:
-    - O2_250rpm - N2_1000rpm
-    - O2_500rpm - N2_1000rpm
-    - O2_750rpm - N2_1000rpm
-    - O2_1000rpm - N2_1000rpm
-
-Data from nitrogen 2000 rpm analysis will be substrated to oxygen 1200 , 1400 , 1600 and 2000 rpm analysis:
-    - O2_1200rpm - N2_2000rpm
-    - O2_1400rpm - N2_2000rpm
-    - O2_1600rpm - N2_2000rpm
-    - O2_2000rpm - N2_2000rpm
-
-# Data treatment. Reference to RHE 
+# Data treatment. First step: Reference data to RHE 
 
 All tools cretaed in this project are refered to RHE as reference scale potential . In order to obtain referenced potential to RHE, first see :
 
@@ -82,10 +67,24 @@ with following parameters for our electrode used in this project (Ag/AgCl , 3.5M
    - Eo(Ag/AgCl) = 0.1976 V at 298 K.
    - E(Ag/AgCl) = Working potential = Ag/AgCl (3.5M KCl) +0.205 V.
    - pH = pH of solution , in our case was 12.8 for KOH 0.1 M.
+   - 
+# Data treatment. Second step: Proccesing ORR curves 
 
+Data from nitrogen 0 rpm analysis will be substrated to oxygen 0 rpm analysis (O2_0rpm - N2_0rpm)
 
+Data from nitrogen 1000 rpm analysis will be substrated to oxygen 250 , 500 , 750 and 1000 rpm analysis:
+        - O2_250rpm - N2_1000rpm
+        - O2_500rpm - N2_1000rpm
+        - O2_750rpm - N2_1000rpm
+        - O2_1000rpm - N2_1000rpm
 
-# Data treatment. Koutecky-Levich Analysis
+Data from nitrogen 2000 rpm analysis will be substrated to oxygen 1200 , 1400 , 1600 and 2000 rpm analysis:
+        - O2_1200rpm - N2_2000rpm
+        - O2_1400rpm - N2_2000rpm
+        - O2_1600rpm - N2_2000rpm
+        - O2_2000rpm - N2_2000rpm
+
+# Data treatment. Third step: Koutecky-Levich Analysis
 
 Before you obtain results from data read this website for undestand Koutecky-Levich Analysis:
 
