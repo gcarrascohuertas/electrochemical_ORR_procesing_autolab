@@ -50,22 +50,21 @@ Once you finish setting-up all the electrochemical cell components. Create two e
 
 WARNING: Due to NOVA software is licensed I can not upload sequence (.nox file). If you want NOVA software sequence for Nitrogen also Oxygen measurements (.nox files) do no hesitate to contact me at :  gasparcarrascohuertas@gmail.com
 
+# Data treatment. Proccesing ORR curves 
 
-# Data treatment. Koutecky-Levich Analysis
+Data from nitrogen 0 rpm analysis will be substrated to oxygen 0 rpm analysis (O2_0rpm - N2_0rpm)
 
-Before you obtain results from data read this website for undestand Koutecky-Levich Analysis:
+Data from nitrogen 1000 rpm analysis will be substrated to oxygen 250 , 500 , 750 and 1000 rpm analysis:
+    - O2_250rpm - N2_1000rpm
+    - O2_500rpm - N2_1000rpm
+    - O2_750rpm - N2_1000rpm
+    - O2_1000rpm - N2_1000rpm
 
-https://pineresearch.com/shop/kb/theory/hydrodynamic-electrochemistry/koutecky-levich-analysis/
-
-The Koutecký–Levich equation models the measured electric current at an electrode from an electrochemical reaction in relation to the kinetic activity and the mass transport of reactants. The Koutecky-Levich (K-L) analyses of the RDE data derived from the limiting current measured at various potentials. The number of electrons transferred per O2 molecule (n) was calculated from these plots using the K-L equation. 
-
-Following parameters were used in data contained in folder carbon_superP:
-
-- Scan rate (ν):     0.01004 cm<sup>2</sup>/s
-- Concentration of O2 at 298 K (C-0<sub>2</sub>):     1.39e-3 mol L<sup>-1</sup> (KOH 0.1 M at 298 K)
-- Diffusion constant of O<sub>2</sub> (D-O<sub>2</sub>):     1.9e-5 cm<sup>2</sup>/s (KOH 0.1 M at 298 K)
-- Faraday constant : 96485 C / mol
-
+Data from nitrogen 2000 rpm analysis will be substrated to oxygen 1200 , 1400 , 1600 and 2000 rpm analysis:
+    - O2_1200rpm - N2_2000rpm
+    - O2_1400rpm - N2_2000rpm
+    - O2_1600rpm - N2_2000rpm
+    - O2_2000rpm - N2_2000rpm
 
 # Data treatment. Reference to RHE 
 
@@ -84,6 +83,22 @@ with following parameters for our electrode used in this project (Ag/AgCl , 3.5M
    - E(Ag/AgCl) = Working potential = Ag/AgCl (3.5M KCl) +0.205 V.
    - pH = pH of solution , in our case was 12.8 for KOH 0.1 M.
 
+
+
+# Data treatment. Koutecky-Levich Analysis
+
+Before you obtain results from data read this website for undestand Koutecky-Levich Analysis:
+
+https://pineresearch.com/shop/kb/theory/hydrodynamic-electrochemistry/koutecky-levich-analysis/
+
+The Koutecký–Levich equation models the measured electric current at an electrode from an electrochemical reaction in relation to the kinetic activity and the mass transport of reactants. The Koutecky-Levich (K-L) analyses of the RDE data derived from the limiting current measured at various potentials. The number of electrons transferred per O2 molecule (n) was calculated from these plots using the K-L equation. 
+
+Following parameters were used in data contained in folder carbon_superP:
+
+- Scan rate (ν):     0.01004 cm<sup>2</sup>/s
+- Concentration of O2 at 298 K (C-0<sub>2</sub>):     1.39e-3 mol L<sup>-1</sup> (KOH 0.1 M at 298 K)
+- Diffusion constant of O<sub>2</sub> (D-O<sub>2</sub>):     1.9e-5 cm<sup>2</sup>/s (KOH 0.1 M at 298 K)
+- Faraday constant : 96485 C / mol
 
 
 
