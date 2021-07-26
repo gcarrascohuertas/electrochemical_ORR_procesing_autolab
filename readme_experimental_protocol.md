@@ -76,10 +76,10 @@ All tools cretaed in this project are refered to RHE as reference scale potentia
 
 Our electrode used in this project was Ag/AgCl (3.5M KCl):
 
-E(RHE) = E(Ag/AgCl) + 0.059*(pH) + Eo(Ag/AgCl)
-Eo(Ag/AgCl) = 0.1976 V at 298 K
-E(Ag/AgCl) = Working potential = Ag/AgCl (3.5M KCl) +0.205 V
-pH = pH of solution , in our case was 12.8 KOH 
+   - E(RHE) = E(Ag/AgCl) + 0.059*(pH) + Eo(Ag/AgCl)
+   - Eo(Ag/AgCl) = 0.1976 V at 298 K
+   - E(Ag/AgCl) = Working potential = Ag/AgCl (3.5M KCl) +0.205 V
+   - pH = pH of solution , in our case was 12.8 KOH 
 
 
 
