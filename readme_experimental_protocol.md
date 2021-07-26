@@ -38,7 +38,11 @@ Electrochemical techniques performed are cyclic voltammograms with a staircase p
 # Electrochemical measurements
 
 In order to follow recomendatios of [Kocha et.al., 2017](https://link.springer.com/article/10.1007/s12678-017-0378-6#citeas) , first the electrolyte is thermostated at 298 K and then purged with high purity Nitrogen for at least 30 min before each N<sub>2</sub> measurements  at 0 rpm, 1000 rpm and 2000 rpm. 
-Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to O<sub>2</sub> measurements at 0 rpm, 250 rpm, 500 rpm, 750 rpm, 1000 rpm , 1200 rpm,  1400 rpm, 1600 rpm, 1800 rpm and 2000 rpm. For purging you can use a large stainless steel needle inserted into a septum see [scheme](https://www.researchgate.net/figure/Schematic-of-a-typical-water-jacketed-RDE-cell_fig8_324230952)
+Once nitrogen measurements are achieved electrolyte is purged with Oxygen for at least 30 min prior to O<sub>2</sub> measurements at 0 rpm, 250 rpm, 500 rpm, 750 rpm, 1000 rpm , 1200 rpm,  1400 rpm, 1600 rpm, 1800 rpm and 2000 rpm. For purging you can use a large stainless steel needle inserted into a septum (see [scheme](https://www.researchgate.net/figure/Schematic-of-a-typical-water-jacketed-RDE-cell_fig8_324230952)).
+
+WARNING:  Save experimental ORR-results files as following examples in order to avoid problems with cronological order:
+            - In case of nitrogen analysis:  N2_2000rpm   for 2000 rpm analysis 
+            - In case of oxygen analysis:  O2_0250rpm  for 250 rpm analysis 
 
 # Experimental NOVA software routine 
 
