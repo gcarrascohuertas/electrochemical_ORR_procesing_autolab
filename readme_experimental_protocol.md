@@ -29,7 +29,7 @@ First you need following materials in order to perform experiments:
 
 Electrochemical techniques performed are cyclic voltammograms with a staircase profile (CV), Chronoamperometry (CA) and Electrochemical impedance spectroscopy (EIS).
 
-   - Cyclic voltammograms with a staircase profile (CV) parameters: Potential windows have to be ranged in the optimum potential windows of your electrode-electrolyte system. In the example provided here I used a potential window which varies from 0.1 to -0.9 V  vs. V<sub>Ref</sub> repeated 3 times at 10 mV/s fixed scan rate. Upper vertex and Lower vertex were set to 0.11 V and -0.9 V vs. V<sub>Ref</sub> . Step was set to -0.00244 V
+   - Cyclic voltammograms with a staircase profile (CV) parameters: Potential windows have to be ranged in the optimum potential windows of your electrode-electrolyte system. Here I used a potential window which varies from 0.1 to -0.9 V  vs. V<sub>Ref</sub> repeated 3 times at 10 mV/s fixed scan rate. Upper vertex and Lower vertex were set to 0.11 V and -0.01 V vs. V<sub>Ref</sub> . Step was set to -0.00244 V
 
    - Chronoamperometry (CA) parameters: This analysis was performed only for 1600 rpm in a O<sub>2</sub> saturated electrolyte.
    
