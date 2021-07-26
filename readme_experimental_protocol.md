@@ -71,8 +71,8 @@ Following parameters were used in data contained in folder carbon_superP:
 
 All tools cretaed in this project are refered to RHE as reference scale potential . In order to obtain referenced potential to RHE, first see :
 
-#http://www.consultrsr.net/resources/ref/refpotls3.htm
-#http://www.consultrsr.net/resources/ref/refpotls.htm#ssce
+   - http://www.consultrsr.net/resources/ref/refpotls3.htm
+   - http://www.consultrsr.net/resources/ref/refpotls.htm#ssce
 
 Our electrode used in this project was Ag/AgCl (3.5M KCl):
 
